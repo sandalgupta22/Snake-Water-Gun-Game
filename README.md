@@ -6,6 +6,5 @@ I hope you enjoy the GAME
 
 Cheers!!!!!
 
-
-Rules Of The Game : 
+Rules Of The Game
 
