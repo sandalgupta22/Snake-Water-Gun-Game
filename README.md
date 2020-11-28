@@ -5,3 +5,7 @@ A good timepass game to play offline so if you are bored just hop on!!!!!!!!
 I hope you enjoy the GAME
 
 Cheers!!!!!
+
+Rules Of The Game : 
+
+
