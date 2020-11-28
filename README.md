@@ -14,7 +14,8 @@ A good timepass game to play offline so if you are bored just hop on!!!!!!!!
 
 ## External modules/dependencies :
 
-* pygame ---> pip install pygame == From pygame mixer module is used to play audio while playing game.
+* termcolor ---> *pip install termcolor* == From termcolor,colored and cprint functions are used while playing game.
+* pygame ---> *pip install pygame* == From pygame mixer module is used to play audio while playing game.
 * Music Files : 
      * snake.mp3
 
