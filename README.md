@@ -17,9 +17,11 @@ A good timepass game to play offline so if you are bored just hop on!!!!!!!!
 * termcolor ---> *pip install termcolor* == From termcolor,colored and cprint functions are used while playing game.
 * pygame ---> *pip install pygame* == From pygame mixer module is used to play audio while playing game.
 * Music Files : 
-     * snake.mp3
+     * snake.mp3 (To download the music file just 'left-click' the download button and click on 'save link as'.
 
 Make sure the music files are in the current working directory or provide the full path to those music files in functions mixer.music.load().If you don't do so, the FileNotFound error will occur.
+
+
 
 
 
