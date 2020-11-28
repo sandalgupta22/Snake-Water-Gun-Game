@@ -8,8 +8,9 @@ A good timepass game to play offline so if you are bored just hop on!!!!!!!!
 
 ## Rules Of The Game : 
 
-*Single player can play this game with the computer.
-*You have to type "S" for snake "W" for water and "G" for gun
+* Single player can play this game with the computer.
+* You have to type "S" for snake "W" for water and "G" for gun.
+* You can play ten matches and at last you get wins that you get out of 10.
 
 
 
